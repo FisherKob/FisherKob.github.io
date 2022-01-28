@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Data Scientist</title>
-    <link>https://FisherKob.github.io/hugo-goa/blog/</link>
+    <link>http://localhost/blog/</link>
     <description>Recent content in Blogs on Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://FisherKob.github.io/hugo-goa/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtue Signaling and Cancel Culture in Today&#39;s Society</title>
-      <link>https://FisherKob.github.io/hugo-goa/blog/first/</link>
+      <link>http://localhost/blog/first/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/blog/first/</guid>
+      <guid>http://localhost/blog/first/</guid>
       <description>Note: For those unfamiliar with the issue, this article involves a discussion about recent criticism of Chamath&amp;rsquo;s seemingly nonchalant stance on Chinese treatment of the Uyghurs Community. For more context, checkout: BBC&amp;rsquo;s article.
 Recently, Chamath&amp;rsquo;s (CEO of Social Capital) notoriously dismissive remarks on the Uyghurs community made at All-in podcast had drawn quite a lot of mainstream media backlash which led me to ruminate on where I stand on the human rights issues and how as a society we should go about tackling this problem.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://FisherKob.github.io/hugo-goa/blog/second/</link>
+      <link>http://localhost/blog/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/blog/second/</guid>
+      <guid>http://localhost/blog/second/</guid>
       <description></description>
     </item>
     

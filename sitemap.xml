@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/</loc>
+    <loc>http://localhost/blog/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/</loc>
+    <loc>http://localhost/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/first/</loc>
+    <loc>http://localhost/blog/first/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/second/</loc>
+    <loc>http://localhost/blog/second/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/third/</loc>
+    <loc>http://localhost/third/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/categories/</loc>
+    <loc>http://localhost/categories/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/tags/</loc>
+    <loc>http://localhost/tags/</loc>
   </url>
   
 </urlset>
