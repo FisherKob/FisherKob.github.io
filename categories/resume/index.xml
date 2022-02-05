@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resume on Data Scientist</title>
+    <link>https://FisherKob.github.io/categories/resume/</link>
+    <description>Recent content in resume on Data Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://FisherKob.github.io/categories/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://FisherKob.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://FisherKob.github.io/resume/</guid>
+      <description>Nischal Subedi Data Scientist [ website ] . [ linkedin ] . [ github ] I am a data scientist with a background in credit card and real estate analytics. I have worked on projects that involved researching new algorithms and approaches to attacking tough problems, analyzing complex, label-poor datasets, building novel production ETL and ML platforms, and help to bring intelligent capabilities to fruition for users.
+One of the interesting projects I have worked on recently involved an building infrastructure to constantly monitor micro-markets using live feeds.</description>
+    </item>
+    
+  </channel>
+</rss>
