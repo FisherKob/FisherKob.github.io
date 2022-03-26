@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Data Scientist</title>
-    <link>https://FisherKob.github.io/blog/</link>
+    <link>https://fisherkob.github.com/blog/</link>
     <description>Recent content in Blogs on Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://FisherKob.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fisherkob.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 key points from books read so far</title>
+      <link>https://fisherkob.github.com/blog/second/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fisherkob.github.com/blog/second/</guid>
+      <description>1) How to think about Exercise - Daemon Young
+  Body and Mind is not a separate entity as some philosophers in the early era claimed. The supposed dualism does not really exist. The mind and body function as a single entity. Greek- the epitome of perfect body and mind.
+  Reverie - Charles Darwin loved to talk walks every day despite his ill health that crippled him in his 40s.</description>
+    </item>
+    
     <item>
       <title>Virtue Signaling and Cancel Culture in Today&#39;s Society</title>
-      <link>https://FisherKob.github.io/blog/first/</link>
+      <link>https://fisherkob.github.com/blog/first/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/blog/first/</guid>
+      <guid>https://fisherkob.github.com/blog/first/</guid>
       <description>Note: For those unfamiliar with the issue, this article involves a discussion about recent criticism of Chamath&amp;rsquo;s seemingly nonchalant stance on Chinese treatment of the Uyghurs Community. For more context, checkout: BBC&amp;rsquo;s article.
 Recently, Chamath&amp;rsquo;s (CEO of Social Capital) notoriously dismissive remarks on the Uyghurs community made at All-in podcast had drawn quite a lot of mainstream media backlash which led me to ruminate on where I stand on the human rights issues and how as a society we should go about tackling this problem.</description>
     </item>

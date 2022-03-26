@@ -2,27 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Scientist</title>
-    <link>https://FisherKob.github.io/</link>
+    <link>https://fisherkob.github.com/</link>
     <description>Recent content on Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://FisherKob.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fisherkob.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 key points from books read so far</title>
+      <link>https://fisherkob.github.com/blog/second/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fisherkob.github.com/blog/second/</guid>
+      <description>1) How to think about Exercise - Daemon Young
+  Body and Mind is not a separate entity as some philosophers in the early era claimed. The supposed dualism does not really exist. The mind and body function as a single entity. Greek- the epitome of perfect body and mind.
+  Reverie - Charles Darwin loved to talk walks every day despite his ill health that crippled him in his 40s.</description>
+    </item>
+    
     <item>
       <title>Virtue Signaling and Cancel Culture in Today&#39;s Society</title>
-      <link>https://FisherKob.github.io/blog/first/</link>
+      <link>https://fisherkob.github.com/blog/first/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/blog/first/</guid>
+      <guid>https://fisherkob.github.com/blog/first/</guid>
       <description>Note: For those unfamiliar with the issue, this article involves a discussion about recent criticism of Chamath&amp;rsquo;s seemingly nonchalant stance on Chinese treatment of the Uyghurs Community. For more context, checkout: BBC&amp;rsquo;s article.
 Recently, Chamath&amp;rsquo;s (CEO of Social Capital) notoriously dismissive remarks on the Uyghurs community made at All-in podcast had drawn quite a lot of mainstream media backlash which led me to ruminate on where I stand on the human rights issues and how as a society we should go about tackling this problem.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://FisherKob.github.io/about/</link>
+      <link>https://fisherkob.github.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/about/</guid>
+      <guid>https://fisherkob.github.com/about/</guid>
       <description>Explicit is better than implicit; Errors should never pass silently, unless explicitly silenced. I’ve spent the first half of my twenties as a student, analyst and a data scientist. I have travelled across the US except the west which I am aiming to explore in 2022, getting to blogging and an aspiring book worm.
 I’m currently thinking about:
  Software Design and Principles Complex data analytical techniques Blockchain and Cryptocurrencies Anonymous internet personas in the age of cancel culture Economics and Stock Market New applications for risk diversification  If you’re also interested in the above topics, have feedback on my writing, or just want to say hello, please get in touch.</description>
@@ -30,10 +41,10 @@ I’m currently thinking about:
     
     <item>
       <title></title>
-      <link>https://FisherKob.github.io/resume/</link>
+      <link>https://fisherkob.github.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/resume/</guid>
+      <guid>https://fisherkob.github.com/resume/</guid>
       <description>Nischal Subedi Data Scientist [ website ] . [ linkedin ] . [ github ] Hello! I am a data scientist with a background in credit card and real estate analytics. I have worked on several projects that involved researching new algorithms to tackle tough problems, analyzing complex, and poorly structured datasets, building novel production ETL and ML infrastructures and bringing intelligent capabilities to fruition for users.
 One of the interesting projects I have worked on recently involved building an infrastructure to constantly monitor micro-markets using live feeds.</description>
     </item>

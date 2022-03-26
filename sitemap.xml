@@ -3,50 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://FisherKob.github.io/blog/</loc>
+    <loc>https://fisherkob.github.com/blog/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fisherkob.github.com/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fisherkob.github.com/blog/second/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fisherkob.github.com/blog/first/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/</loc>
-    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+    <loc>https://fisherkob.github.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/blog/first/</loc>
-    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+    <loc>https://fisherkob.github.com/resume/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/about/</loc>
+    <loc>https://fisherkob.github.com/tags/about/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/resume/</loc>
+    <loc>https://fisherkob.github.com/categories/about/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/tags/about/</loc>
+    <loc>https://fisherkob.github.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/categories/about/</loc>
+    <loc>https://fisherkob.github.com/tags/resume/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/categories/</loc>
+    <loc>https://fisherkob.github.com/categories/resume/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/tags/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://FisherKob.github.io/categories/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://FisherKob.github.io/tags/</loc>
+    <loc>https://fisherkob.github.com/tags/</loc>
   </url>
   
 </urlset>
