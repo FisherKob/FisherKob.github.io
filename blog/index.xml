@@ -2,28 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Data Scientist</title>
-    <link>https://fisherkob.github.com/blog/</link>
+    <link>https://FisherKob.github.io/hugo-goa/blog/</link>
     <description>Recent content in Blogs on Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fisherkob.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://FisherKob.github.io/hugo-goa/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book 1: Summary</title>
-      <link>https://fisherkob.github.com/blog/second/</link>
+      <link>https://FisherKob.github.io/hugo-goa/blog/second/</link>
       <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fisherkob.github.com/blog/second/</guid>
+      <guid>https://FisherKob.github.io/hugo-goa/blog/second/</guid>
       <description>In this post, I will summarize key lessons that I derived from reading the book as titled above. I am planning for similar series of posts for most the books I will be reading in the future.
 How to think about Exercise - Daemon Young
-The body and mind are not separate entity as some philosophers in the early era claimed. The supposed dualism does not really exist. The mind and body function as a single entity.</description>
+The body and mind are not separate entities as some philosophers in the early era claimed. The supposed dualism does not really exist. The mind and body function as a single entity.</description>
+    </item>
+    
+    <item>
+      <title>Book 2: Summary</title>
+      <link>https://FisherKob.github.io/hugo-goa/blog/third/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://FisherKob.github.io/hugo-goa/blog/third/</guid>
+      <description>Reinventing The Body, Resurrecting The Soul - Deepak Chopra
+The forgotten miracle - Life is meant to be a complete experience. People keep struggling with problems both physical and mental, never suspecting the root: that the bond between body and soul has been severed.
+  Reinventing your body: You, right at this minute, stand at the growing tip of evolution. The next thing you think, the next action you take, will either create a new possibility for you or it will repeat the past.</description>
     </item>
     
     <item>
       <title>Virtue Signaling and Cancel Culture in Today&#39;s Society</title>
-      <link>https://fisherkob.github.com/blog/first/</link>
+      <link>https://FisherKob.github.io/hugo-goa/blog/first/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fisherkob.github.com/blog/first/</guid>
+      <guid>https://FisherKob.github.io/hugo-goa/blog/first/</guid>
       <description>Note: For those unfamiliar with the issue, this article involves a discussion about recent criticism of Chamath&amp;rsquo;s seemingly nonchalant stance on Chinese treatment of the Uyghurs Community. For more context, checkout: BBC&amp;rsquo;s article.
 Recently, Chamath&amp;rsquo;s (CEO of Social Capital) notoriously dismissive remarks on the Uyghurs community made at All-in podcast had drawn quite a lot of mainstream media backlash which led me to ruminate on where I stand on the human rights issues and how as a society we should go about tackling this problem.</description>
     </item>
