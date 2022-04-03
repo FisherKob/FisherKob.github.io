@@ -3,15 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fisherkob.github.com/categories/</loc>
+    <loc>https://FisherKob.github.io/hugo-goa/blog/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fisherkob.github.com/</loc>
+    <loc>https://FisherKob.github.io/hugo-goa/blog/third/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fisherkob.github.com/tags/</loc>
+    <loc>https://FisherKob.github.io/hugo-goa/blog/fourth/img/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/blog/fifth/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/blog/second/</loc>
+    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/blog/first/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/tags/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/categories/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/tags/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/categories/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://FisherKob.github.io/hugo-goa/tags/</loc>
   </url>
   
 </urlset>
