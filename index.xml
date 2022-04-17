@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Scientist</title>
-    <link>https://FisherKob.github.io/hugo-goa/</link>
+    <link>https://fisherkob.github.io/</link>
     <description>Recent content on Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://FisherKob.github.io/hugo-goa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fisherkob.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book 3: 3 Things Sucessful People Do</title>
+      <link>https://fisherkob.github.io/blog/sixth/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fisherkob.github.io/blog/sixth/</guid>
+      <description>The Journey is more fun if you know where you are going
+ It is often hard to define sucess. If you do not know what sucess is, how will you acheive it? One common definiton that works for everyone is: sucess is a journey.  Wrong picture of sucess
+ Wealth Special Feeling Specific and Worthwhile Possessions Power Achievement  Right Picture of Sucess Two things are required: Right picture of sucess and Right principles of getting there.</description>
+    </item>
+    
     <item>
       <title>Book 2: Summary</title>
-      <link>https://FisherKob.github.io/hugo-goa/blog/third/</link>
+      <link>https://fisherkob.github.io/blog/third/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/blog/third/</guid>
+      <guid>https://fisherkob.github.io/blog/third/</guid>
       <description>Reinventing The Body, Resurrecting The Soul - Deepak Chopra
 The forgotten miracle - Life is meant to be a complete experience. People keep struggling with problems both physical and mental, never suspecting the root: that the bond between body and soul has been severed.
   Reinventing your body: You, right at this minute, stand at the growing tip of evolution. The next thing you think, the next action you take, will either create a new possibility for you or it will repeat the past.</description>
@@ -20,29 +31,29 @@ The forgotten miracle - Life is meant to be a complete experience. People keep s
     
     <item>
       <title>Book 3: Summary</title>
-      <link>https://FisherKob.github.io/hugo-goa/blog/fourth/img/</link>
+      <link>https://fisherkob.github.io/blog/fourth/img/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/blog/fourth/img/</guid>
+      <guid>https://fisherkob.github.io/blog/fourth/img/</guid>
       <description>Nine Algorithms that changed the world</description>
     </item>
     
     <item>
       <title>Top lessons I learnt from Kobe Bryant</title>
-      <link>https://FisherKob.github.io/hugo-goa/blog/fifth/</link>
+      <link>https://fisherkob.github.io/blog/fifth/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/blog/fifth/</guid>
+      <guid>https://fisherkob.github.io/blog/fifth/</guid>
       <description>Kobe Bryant, one of the greatest basketball players of all time, is my huge source of inspiration.
 I wasn&amp;rsquo;t very involved in basketball until I moved to the US. I first played basketball with a few friends when I was in college and I loved it so much that it quickly became my favorite sport. As a result, I became more immersed in the sport by watching the NBA games and generally learning more about them.</description>
     </item>
     
     <item>
       <title>Book 1: Summary</title>
-      <link>https://FisherKob.github.io/hugo-goa/blog/second/</link>
+      <link>https://fisherkob.github.io/blog/second/</link>
       <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/blog/second/</guid>
+      <guid>https://fisherkob.github.io/blog/second/</guid>
       <description>In this post, I will summarize key lessons that I derived from reading the book as titled above. I am planning for similar series of posts for most the books I will be reading in the future.
 How to think about Exercise - Daemon Young
 The body and mind are not separate entities as some philosophers in the early era claimed. The supposed dualism does not really exist. The mind and body function as a single entity.</description>
@@ -50,20 +61,20 @@ The body and mind are not separate entities as some philosophers in the early er
     
     <item>
       <title>Virtue Signaling and Cancel Culture in Today&#39;s Society</title>
-      <link>https://FisherKob.github.io/hugo-goa/blog/first/</link>
+      <link>https://fisherkob.github.io/blog/first/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/blog/first/</guid>
+      <guid>https://fisherkob.github.io/blog/first/</guid>
       <description>Note: For those unfamiliar with the issue, this article involves a discussion about recent criticism of Chamath&amp;rsquo;s seemingly nonchalant stance on Chinese treatment of the Uyghurs Community. For more context, checkout: BBC&amp;rsquo;s article.
 Recently, Chamath&amp;rsquo;s (CEO of Social Capital) notoriously dismissive remarks on the Uyghurs community made at All-in podcast had drawn quite a lot of mainstream media backlash which led me to ruminate on where I stand on the human rights issues and how as a society we should go about tackling this problem.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://FisherKob.github.io/hugo-goa/about/</link>
+      <link>https://fisherkob.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/about/</guid>
+      <guid>https://fisherkob.github.io/about/</guid>
       <description>Explicit is better than implicit; Errors should never pass silently, unless explicitly silenced. I’ve spent the first half of my twenties as a student, analyst and a data scientist. I have travelled across the US except the west which I am aiming to explore in 2022, getting to blogging and an aspiring book worm.
 I’m currently thinking about:
  Software Design and Principles Complex data analytical techniques Blockchain and Cryptocurrencies Anonymous internet personas in the age of cancel culture Economics and Stock Market New applications for risk diversification  If you’re also interested in the above topics, have feedback on my writing, or just want to say hello, please get in touch.</description>
@@ -71,10 +82,10 @@ I’m currently thinking about:
     
     <item>
       <title></title>
-      <link>https://FisherKob.github.io/hugo-goa/resume/</link>
+      <link>https://fisherkob.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://FisherKob.github.io/hugo-goa/resume/</guid>
+      <guid>https://fisherkob.github.io/resume/</guid>
       <description>Nischal Subedi Data Scientist [ website ] . [ linkedin ] . [ github ] Hello! I am a data scientist with a background in credit card and real estate analytics. I have worked on several projects that involved researching new algorithms to tackle tough problems, analyzing complex, and poorly structured datasets, building novel production ETL and ML infrastructures and bringing intelligent capabilities to fruition for users.
 One of the interesting projects I have worked on recently involved building an infrastructure to constantly monitor micro-markets using live feeds.</description>
     </item>

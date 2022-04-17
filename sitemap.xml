@@ -3,70 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/</loc>
+    <loc>https://fisherkob.github.io/blog/</loc>
+    <lastmod>2022-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fisherkob.github.io/blog/sixth/</loc>
+    <lastmod>2022-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fisherkob.github.io/</loc>
+    <lastmod>2022-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fisherkob.github.io/blog/third/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/third/</loc>
+    <loc>https://fisherkob.github.io/blog/fourth/img/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/fourth/img/</loc>
+    <loc>https://fisherkob.github.io/blog/fifth/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/</loc>
-    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/fifth/</loc>
-    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/second/</loc>
+    <loc>https://fisherkob.github.io/blog/second/</loc>
     <lastmod>2022-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/blog/first/</loc>
+    <loc>https://fisherkob.github.io/blog/first/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/about/</loc>
+    <loc>https://fisherkob.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/resume/</loc>
+    <loc>https://fisherkob.github.io/resume/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/tags/about/</loc>
+    <loc>https://fisherkob.github.io/tags/about/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/categories/about/</loc>
+    <loc>https://fisherkob.github.io/categories/about/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/categories/</loc>
+    <loc>https://fisherkob.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/tags/resume/</loc>
+    <loc>https://fisherkob.github.io/tags/resume/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/categories/resume/</loc>
+    <loc>https://fisherkob.github.io/categories/resume/</loc>
   </url>
   
   <url>
-    <loc>https://FisherKob.github.io/hugo-goa/tags/</loc>
+    <loc>https://fisherkob.github.io/tags/</loc>
   </url>
   
 </urlset>
