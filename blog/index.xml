@@ -2,58 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Data Scientist</title>
-    <link>https://fisherkob.github.io/blog/</link>
+    <link>https://fisherkob.github.com/blog/</link>
     <description>Recent content in Blogs on Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fisherkob.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fisherkob.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Book 3: 3 Things Sucessful People Do</title>
-      <link>https://fisherkob.github.io/blog/sixth/</link>
+      <title>Book 1: Artifical Intelligence</title>
+      <link>https://fisherkob.github.com/blog/seventh/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fisherkob.github.com/blog/seventh/</guid>
+      <description>This book is very interseting read as an AI enthusiast. Here is the summary of the book:
+A lot of general application today that are AI embedded ironically are not labeled as AI because of the application&amp;rsquo;s pervasive use throught several industries. Throught the histroy, complexities of human minds, nature of thought,and possibility of AI has been a facinating topic that aroused scientist, philosopers, artists, and even theologians. The characterization of human like artificial beings in the movies, literature, myth, art, music, and games that depict emotional robots with advanced intelligence speaks to human&amp;rsquo;s interest in the artifical beings.</description>
+    </item>
+    
+    <item>
+      <title>Current inflation in US and how it got to this point</title>
+      <link>https://fisherkob.github.com/blog/eleventh/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fisherkob.github.com/blog/eleventh/</guid>
+      <description>This is a follow up from my last post about inflation. Now I will examine the current state of US Housing market and its future.
+US housing market is an interesting for me because I work very closely as a data scientist for a real estate company backed by one of the largest asset management company (prefer not to disclose). Over my time spent working, I got very interested in the state of the housing market, its history and implications for the future.</description>
+    </item>
+    
+    <item>
+      <title>Current inflation in US and how it got to this point</title>
+      <link>https://fisherkob.github.com/blog/tenth/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fisherkob.github.com/blog/tenth/</guid>
+      <description>A brewing concerns lately regading the state of US economy predicted to be headed to recession. Over the past few months, the market experts, economist and the Fed&#39;s sentiment of inflation went from being a transitory to little push back to acceptance that it is a real problem. Alomst like a person finding out about a serious underlying issue who go through similar phrase of denial to acceptance. The Feds response to the scorching inflation by raising rates as not really helped as evidenced by the latest CPI for the month of May 2020 which was as high as 8.</description>
+    </item>
+    
+    <item>
+      <title>Book 3: Three Things Sucessful People Do</title>
+      <link>https://fisherkob.github.com/blog/sixth/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fisherkob.github.io/blog/sixth/</guid>
-      <description>The Journey is more fun if you know where you are going
- It is often hard to define sucess. If you do not know what sucess is, how will you acheive it? One common definiton that works for everyone is: sucess is a journey.  Wrong picture of sucess
- Wealth Special Feeling Specific and Worthwhile Possessions Power Achievement  Right Picture of Sucess Two things are required: Right picture of sucess and Right principles of getting there.</description>
+      <guid>https://fisherkob.github.com/blog/sixth/</guid>
+      <description>The Journey is more fun if you know where you are going.
+It is often hard to define sucess. If you do not know what sucess is, how will you acheive it? One common definiton that works for everyone is: sucess is a journey. Wrong picture of sucess
+Wealth Special Feeling Specific and Worthwhile Possessions Power Achievement Right Picture of Sucess Two things are required: Right picture of sucess and Right principles of getting there.</description>
     </item>
     
     <item>
-      <title>Book 2: Summary</title>
-      <link>https://fisherkob.github.io/blog/third/</link>
+      <title>Book 2: Reinventing The Body, Resurrecting The Soul</title>
+      <link>https://fisherkob.github.com/blog/third/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fisherkob.github.io/blog/third/</guid>
+      <guid>https://fisherkob.github.com/blog/third/</guid>
       <description>Reinventing The Body, Resurrecting The Soul - Deepak Chopra
 The forgotten miracle - Life is meant to be a complete experience. People keep struggling with problems both physical and mental, never suspecting the root: that the bond between body and soul has been severed.
-  Reinventing your body: You, right at this minute, stand at the growing tip of evolution. The next thing you think, the next action you take, will either create a new possibility for you or it will repeat the past.</description>
+Reinventing your body: You, right at this minute, stand at the growing tip of evolution. The next thing you think, the next action you take, will either create a new possibility for you or it will repeat the past.</description>
     </item>
     
     <item>
-      <title>Book 3: Summary</title>
-      <link>https://fisherkob.github.io/blog/fourth/img/</link>
+      <title>Book 3: Nine Algorithms that changed the world</title>
+      <link>https://fisherkob.github.com/blog/fourth/img/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fisherkob.github.io/blog/fourth/img/</guid>
+      <guid>https://fisherkob.github.com/blog/fourth/img/</guid>
       <description>Nine Algorithms that changed the world</description>
     </item>
     
     <item>
-      <title>Top lessons I learnt from Kobe Bryant</title>
-      <link>https://fisherkob.github.io/blog/fifth/</link>
+      <title>Book 3: Nine Algorithms that changed the world</title>
+      <link>https://fisherkob.github.com/blog/nine/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fisherkob.github.io/blog/fifth/</guid>
+      <guid>https://fisherkob.github.com/blog/nine/</guid>
+      <description>Nine Algorithms that changed the world</description>
+    </item>
+    
+    <item>
+      <title>Lex Friedman&#39;s podcast with Saifedean Ammous</title>
+      <link>https://fisherkob.github.com/blog/eighth/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fisherkob.github.com/blog/eighth/</guid>
+      <description>Some notes from Lex Friedman Podcast:
+Money - market goods, medium of transaction, saving the most liquid goods with least uncertainity, best tech to move value into the future. Hard money vs Soft money - money is whatever is hardest to make, prision use cigrattes, culmilated in end of 19th centuary to gold standard. gold can&amp;rsquo;t be destroyed, stockpiles bigger (inflation), second hardest silver. hard and soft is based on supply and how easy suoply can be increased.</description>
+    </item>
+    
+    <item>
+      <title>Top lessons I learnt from Kobe Bryant</title>
+      <link>https://fisherkob.github.com/blog/fifth/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fisherkob.github.com/blog/fifth/</guid>
       <description>Kobe Bryant, one of the greatest basketball players of all time, is my huge source of inspiration.
 I wasn&amp;rsquo;t very involved in basketball until I moved to the US. I first played basketball with a few friends when I was in college and I loved it so much that it quickly became my favorite sport. As a result, I became more immersed in the sport by watching the NBA games and generally learning more about them.</description>
     </item>
     
     <item>
-      <title>Book 1: Summary</title>
-      <link>https://fisherkob.github.io/blog/second/</link>
+      <title>Book 1: How to think about Exercise</title>
+      <link>https://fisherkob.github.com/blog/second/</link>
       <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fisherkob.github.io/blog/second/</guid>
+      <guid>https://fisherkob.github.com/blog/second/</guid>
       <description>In this post, I will summarize key lessons that I derived from reading the book as titled above. I am planning for similar series of posts for most the books I will be reading in the future.
 How to think about Exercise - Daemon Young
 The body and mind are not separate entities as some philosophers in the early era claimed. The supposed dualism does not really exist. The mind and body function as a single entity.</description>
@@ -61,10 +109,10 @@ The body and mind are not separate entities as some philosophers in the early er
     
     <item>
       <title>Virtue Signaling and Cancel Culture in Today&#39;s Society</title>
-      <link>https://fisherkob.github.io/blog/first/</link>
+      <link>https://fisherkob.github.com/blog/first/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fisherkob.github.io/blog/first/</guid>
+      <guid>https://fisherkob.github.com/blog/first/</guid>
       <description>Note: For those unfamiliar with the issue, this article involves a discussion about recent criticism of Chamath&amp;rsquo;s seemingly nonchalant stance on Chinese treatment of the Uyghurs Community. For more context, checkout: BBC&amp;rsquo;s article.
 Recently, Chamath&amp;rsquo;s (CEO of Social Capital) notoriously dismissive remarks on the Uyghurs community made at All-in podcast had drawn quite a lot of mainstream media backlash which led me to ruminate on where I stand on the human rights issues and how as a society we should go about tackling this problem.</description>
     </item>

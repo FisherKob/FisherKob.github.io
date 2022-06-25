@@ -1,77 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://fisherkob.github.io/blog/</loc>
+    <loc>https://fisherkob.github.com/blog/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/seventh/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/eleventh/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/tenth/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fisherkob.github.com/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/sixth/</loc>
     <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/blog/sixth/</loc>
-    <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/</loc>
-    <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/blog/third/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/third/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/blog/fourth/img/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/fourth/img/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/blog/fifth/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/nine/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/blog/second/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/eighth/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/fifth/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/second/</loc>
     <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/blog/first/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/blog/first/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fisherkob.github.com/about/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/resume/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/tags/about/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/categories/about/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/categories/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/tags/resume/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/categories/resume/</loc>
+  </url><url>
+    <loc>https://fisherkob.github.com/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/tags/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/categories/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/tags/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/categories/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fisherkob.github.io/tags/</loc>
-  </url>
-  
 </urlset>
